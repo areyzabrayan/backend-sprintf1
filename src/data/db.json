@@ -1,0 +1,68 @@
+{
+    "Usuarios":[
+        {
+            "id":1,
+            "Nombre":"Brayan Areiza",
+            "Celphone": 3046376895,
+            "password":184559,
+            "Url_image":"http://tusimagenesde.com/wp-content/uploads/2017/09/fotos-de-perfil-para-facebook-4.jpg",
+            "conection":"",
+            "info":"la vida es un proceso de aprendizaje"
+        },
+        {
+            "id":2,
+            "Nombre":"jenyffer Caicedo",
+            "Celphone": 3046375475,
+            "password":185862,
+            "Url_image":"https://datosprotegidos.org/wp-content/uploads/2015/05/21528471-Mujer-avatar-foto-de-perfil-vector-Foto-de-archivo.jpg",
+            "conection":"",
+            "info":"la vida sonrie a todos"
+        },
+        {
+            "id":3,
+            "Nombre":"Mateo tamayo",
+            "Celphone": 3005425475,
+            "password":199123,
+            "Url_image":"https://image.freepik.com/vector-gratis/perfil-avatar-hombre-icono-redondo_24640-14044.jpg",
+            "conection":"",
+            "info":"soy del verde soy feliz"
+        },
+        {
+            "id":4,
+            "Nombre":"Hernesto casadilla",
+            "Celphone": 3206978875,
+            "password":124886,
+            "Url_image":"https://tse1.mm.bing.net/th?id=OIP.lM5V_0p9c9ixPj99yN3iwgHaHa&pid=Api&P=0&h=180",
+            "conection":"",
+            "info":"estoy acá pensando que poner"
+        },
+        {
+            "id":5,
+            "Nombre":"Alexis garcia",
+            "Celphone": 3086594786,
+            "password":125634,
+            "Url_image":"https://tse2.mm.bing.net/th?id=OIP.VQeCBzJyv7dwSqO9T3IR4QHaHa&pid=Api&P=0&h=180",
+            "conection":"",
+            "info":"no sabia que poner"
+        }   
+    ],
+    "Mensajes":[
+        {
+            "idUser1": ""
+        },
+        {
+            "idUser2": ""
+        },
+        {
+            "conversaciones":[
+            {
+                "sendBy":"",
+                "date":"",
+                "hour":"",
+                "message":"",
+                "status":""
+            }
+        ]}
+        
+    ]
+}

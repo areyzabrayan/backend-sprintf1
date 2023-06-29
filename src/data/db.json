@@ -46,23 +46,27 @@
             "info":"no sabia que poner"
         }   
     ],
-    "Mensajes":[
+     "Mensajes": [
         {
-            "idUser1": ""
-        },
-        {
-            "idUser2": ""
-        },
-        {
-            "conversaciones":[
-            {
-                "sendBy":"",
-                "date":"",
-                "hour":"",
-                "message":"",
-                "status":""
-            }
-        ]}
-        
+            "idUser1": 1,
+            "id": 1,
+            "messages": [
+                {
+                    "sentBy": 1,
+                    "date": "11/05/23",
+                    "hour": "09:27 am",
+                    "message": "Hola, cómo estás?",
+                    "flag": true
+                },
+                {
+                    "sentBy": 2,
+                    "date": "12/05/23",
+                    "hour": "09:37 am",
+                    "message": "Hola, bien y tú?",
+                    "flag": true
+                }              
+            ]
+        }
     ]
 }
+

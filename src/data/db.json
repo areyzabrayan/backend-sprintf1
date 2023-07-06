@@ -52,22 +52,7 @@
             "idUser2": 2,
             "id": 1,
             "messages": [
-                {
-                    "id": 1,
-                    "sentBy": 1,
-                    "date": "11/05/23",
-                    "hour": "09:27 am",
-                    "message": "Hola, cómo estás?",
-                    "flag": true
-                },
-                {
-                    "id":2,
-                    "sentBy": 2,
-                    "date": "12/05/23",
-                    "hour": "09:37 am",
-                    "message": "Hola, bien y tú?",
-                    "flag": true
-                }              
+                             
             ]
         },
         {
@@ -75,22 +60,7 @@
             "idUser2": 3,
             "id": 2,
             "messages": [
-                {
-                    "id": 1,
-                    "sentBy": 1,
-                    "date": "11/05/23",
-                    "hour": "09:27 am",
-                    "message": "Hola, cómo estás?",
-                    "flag": true
-                },
-                {
-                    "id":2,
-                    "sentBy": 3,
-                    "date": "12/05/23",
-                    "hour": "09:37 am",
-                    "message": "Hola, bien y tú?",
-                    "flag": true
-                }              
+                             
             ]
         }
     ]
